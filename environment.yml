@@ -1,0 +1,7 @@
+name: fast-spectral
+dependencies:
+  - jupyter
+  - tensorflow
+  - numpy
+  - opencv
+
